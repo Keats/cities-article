@@ -1,4 +1,4 @@
-month,avg_temp,max_temp,min_temp,humidity,rainfall,raindays,snowdays
+month,avg_temp,min_temp,max_temp,humidity,rainfall,raindays,snowdays
 01-2011,14.9,11.0,19.6,64.4,3.2,4,0
 02-2011,17.7,12.8,21.5,71.1,4.2,4,0
 03-2011,17.0,13.8,22.2,61.7,1.4,2,0
